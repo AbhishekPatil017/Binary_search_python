@@ -1,2 +1,2 @@
 # Binary_search_python
-binary search using python
+binary search Algorithm using python
