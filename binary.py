@@ -15,7 +15,7 @@ def binary_search(lst,item):
     # using while loop until the item is found in the sorted list
     while low <= high:
         
-        # diving the list into 2 for fast search operation
+        # divding the list into 2 for fast search operation
         mid=(low+high)//2
         # creating temporary guess variable to find the item and returning the index position 
         guess=lst[mid]
